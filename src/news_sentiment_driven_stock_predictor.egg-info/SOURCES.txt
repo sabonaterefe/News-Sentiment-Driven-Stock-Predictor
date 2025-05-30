@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.py
+src/news_sentiment_driven_stock_predictor.egg-info/PKG-INFO
+src/news_sentiment_driven_stock_predictor.egg-info/SOURCES.txt
+src/news_sentiment_driven_stock_predictor.egg-info/dependency_links.txt
+src/news_sentiment_driven_stock_predictor.egg-info/top_level.txt
