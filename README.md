@@ -1,1 +1,1 @@
-# Sentiment-Driven-Stock-Predictor
+# News-Sentiment-Driven-Stock-Predictor
