@@ -1,1 +1,2 @@
 data/raw_analyst_ratings/raw_analyst_ratings.csv filter=lfs diff=lfs merge=lfs -text
+data/yfinance_data/*.csv filter=lfs diff=lfs merge=lfs -text
